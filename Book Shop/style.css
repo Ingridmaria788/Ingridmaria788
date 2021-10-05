@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+    scroll-behavior: smooth;
+}
+
+
+/* HEADER/CAPA*/
+
+header {
+    background-color: black;
+}
+
+.capa {
+    background-image: url(/img/Livros.png);
+    width: 100%;
+    height: 636px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.4;
+}
+
+.texto-img {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    margin-left: 260px;
+    top: 280px;
+    font-size: 30px;
+    width: 900px;
+    line-height: 50px;
+    height: 30px;
+}
+
+.intro-title {
+    color: #b10917;
+    font-weight: 900;
+    font-size: 36px;
+    margin-bottom: 30px;
+    text-shadow: white;
+}
+
+.nav-menu {
+    display: block;
+    position: fixed;
+    list-style: none;
+    color: white;
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+    background-color: #b10917;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 100;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: #b10917;
+}
+
+.nav-menu li {
+    display: inline-block;
+    margin: 10px;
+    background-color: #b10917;
+}
+
+
+/*MAIN E SEÇOES*/
+
+.l1 {
+    height: 250px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 150px;
+    border-radius: 50px;
+}
+
+.sec-tit {
+    color: #b10917;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: bold;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 15px;
+}
+
+.seção {
+    display: flex;
+}
+
+.texto {
+    margin-top: 60px;
+    margin-right: 150px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.pagina-mais {
+    margin-top: 90px;
+}
+
+.btn {
+    background-color: #b10917;
+    border-radius: 10px;
+    color: white;
+    margin: 10px 700px 15px 645px;
+    width: 150px;
+    height: 30px;
+    font-weight: 800;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn:hover {
+    cursor: pointer;
+    color: #b10917;
+    background-color: #fff;
+    font-weight: 900;
+}
+
+.main-foot {
+    position: relative;
+    padding: 10px;
+    margin-top: 200px;
+    background-color: #b10917;
+    color: #fff;
+    height: 200px;
+}
+
+.footer-section {
+    display: inline-block;
+    vertical-align: top;
+    width: 32%;
+    min-width: 230px;
+}
