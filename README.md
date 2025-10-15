@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ingridmaria788
-- 👀 I’m interested in CSS and HTML,also interested in web and aplication development.
-- 🌱 I’m currently learning Python and studing Analysis and System development.
+- 👀 I’m interested in web and aplication development.
+- 🌱 I’m currently learning Js and studing Analysis and System development.
 - 📫 You can contact me through my email: ingridforwork1010@gmail.com
 
 <!---
