@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ingridmaria788
-- 👀 I’m interested in web and aplication development.
+- 👋 Hi, I’m Ingrid Maria Tenorio
+- 👀 I’m interested in web and software development.
 - 🌱 I’m currently learning Js and studing Analysis and System development.
 - 📫 You can contact me through my email: ingridmotta3146@gmail.com
 
